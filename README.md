@@ -38,10 +38,10 @@ Prepared a case study on ransomware and created a prevention checklist.
 https://docs.google.com/forms/d/e/1FAIpQLScWjLbp9VWZbeIs0i1CrMJsiETCJkTuV4QH1A47-P3VAi7d8w/viewform?usp=header
 
 ### 🔗 GitHub Profile
-
+https://github.com/Mousam-Mishra
 
 ### 🔗 LinkedIn Profile
-[Paste Your LinkedIn Profile Link]
+https://www.linkedin.com/in/mousam-mishra-94343a3bb
 
 ### 🔗 Stack Overflow Profile
-[Paste Your Stack Overflow Profile Link]
+https://stackoverflow.com/users/32564035/mousam-mishra
